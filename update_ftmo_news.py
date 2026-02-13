@@ -2,7 +2,8 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
-FF_XML_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.xml"CSV_PATH = "ftmo_news.csv"
+FF_XML_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.xml"
+CSV_PATH = "ftmo_news.csv"
 UTC = timezone.utc
 
 def fetch_xml():
