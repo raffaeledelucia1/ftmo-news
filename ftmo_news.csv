@@ -1,6 +1,1 @@
-2026-02-14 14:30;USD;HIGH;CPI y/y
-2026-02-14 16:00;USD;HIGH;FOMC Meeting Minutes
-2026-02-14 20:00;USD;HIGH;Federal Funds Rate & Statement
-2026-02-15 14:30;USD;HIGH;Non-Farm Employment Change
-2026-02-15 14:30;USD;HIGH;Unemployment Rate & Wages
-2026-02-16 14:30;USD;HIGH;Advance GDP q/q
+# datetime;currency;impact;event
